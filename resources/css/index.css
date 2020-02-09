@@ -1,0 +1,14 @@
+.banner {
+    background-image: url('../images/tennis.jpg');
+    text-align: center;
+    font-family: cursive;
+    color: blue;
+}
+
+.details {
+    background-color: lightskyblue;
+}
+
+.bottom p {
+    text-align: center;
+}
